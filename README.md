@@ -3,6 +3,8 @@
 
 This driver package is supported in Windows 10 & Windows 11.
 
+**ATTENTION:** Windows 11 24H2 is experiencing a lot of bugs related to audio in general. At this time, I do not recommend this version.
+
 Only Realtek ALC Audio Chips (HDA and Intel SST) are supported.
 
 Realtek USB Audio Chips are not supported at this moment.
