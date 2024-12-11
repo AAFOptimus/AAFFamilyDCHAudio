@@ -9,7 +9,7 @@ Only Realtek ALC Audio Chips (HDA and Intel SST) are supported.
 
 Realtek USB Audio Chips are not supported at this moment.
 
-When you remove this driver package, everything that was selected at the time of installation will be removed (including in previous systems).
+When you remove this driver package, everything that was selected at the time of installation will be removed.
 
 - [X] Purpose of this project
 
