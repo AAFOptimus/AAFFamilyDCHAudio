@@ -17,4 +17,4 @@ Help those who have a motherboard with a Realtek audio chip and who want to extr
 
 I hope to be able to help all internet users interested in these packages.
 
-* Some people may still have issues with Intel SST, depending on their hardware and the features it offers. Given this, I recommend that you install the AAF Bus Driver, but first, you will need to uninstall any remnants of the Intel SST driver present on your system.
+*Some people may still have issues with Intel SST, depending on their hardware and the features it offers. Given this, I recommend that you install the AAF Bus Driver, but first, you will need to uninstall any remnants of the Intel SST driver present on your system.
